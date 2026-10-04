@@ -1,0 +1,1074 @@
+{
+ "title": "Apple: the walled garden",
+ "voice": "en_US-lessac-high",
+ "speed": 0.9,
+ "paper": [
+  1400,
+  2000
+ ],
+ "beats": [
+  {
+   "type": "cold_open",
+   "say": "Apple is the company everyone thinks they understand. But its real business isn't really selling iPhones.",
+   "cam": [
+    [
+     700,
+     620,
+     980
+    ],
+    [
+     700,
+     1430,
+     1080
+    ]
+   ]
+  },
+  {
+   "type": "card",
+   "say": "This is part five in my series explaining the biggest tech companies in the world.",
+   "kicker": "SERIES  \u00b7  2026",
+   "title": "Tech Giants, Explained",
+   "columns": [
+    "#",
+    "Company",
+    "Business"
+   ],
+   "col_x": [
+    40,
+    110,
+    330
+   ],
+   "rows": [
+    [
+     "1",
+     "NVIDIA",
+     "AI chips"
+    ],
+    [
+     "2",
+     "Microsoft",
+     "Cloud + software"
+    ],
+    [
+     "3",
+     "Alphabet",
+     "Search + cloud"
+    ],
+    [
+     "4",
+     "Amazon",
+     "Commerce + AWS"
+    ],
+    [
+     "5",
+     "Apple",
+     "Devices + services"
+    ],
+    [
+     "6",
+     "Meta",
+     "Social + ads"
+    ],
+    [
+     "7",
+     "Tesla",
+     "EVs + energy"
+    ],
+    [
+     "8",
+     "Broadcom",
+     "Chips + software"
+    ]
+   ],
+   "highlight": 4
+  },
+  {
+   "say": "In 1997, Apple was about ninety days from being insolvent.",
+   "tts": "In nineteen ninety seven, Apple was about ninety days from being insolvent.",
+   "draw": [
+    {
+     "type": "apple_logo",
+     "cx": 700,
+     "cy": 135,
+     "size": 170,
+     "fill": "gray",
+     "leaf_fill": "gray",
+     "span": [
+      0,
+      0.3
+     ]
+    },
+    {
+     "type": "text",
+     "x": 700,
+     "y": 268,
+     "text": "APPLE",
+     "size": 54,
+     "font": "marker",
+     "span": [
+      0.3,
+      0.42
+     ]
+    },
+    {
+     "type": "text",
+     "x": 110,
+     "y": 395,
+     "text": "1997",
+     "size": 64,
+     "font": "marker",
+     "align": "left"
+    },
+    {
+     "type": "rect",
+     "x": 120,
+     "y": 430,
+     "w": 110,
+     "h": 190
+    },
+    {
+     "type": "rect",
+     "x": 122,
+     "y": 590,
+     "w": 106,
+     "h": 28,
+     "fill": "red",
+     "fill_only": true
+    },
+    {
+     "type": "text",
+     "x": 175,
+     "y": 650,
+     "text": "cash",
+     "size": 26
+    },
+    {
+     "type": "text",
+     "x": 440,
+     "y": 515,
+     "text": "~90 days from\ninsolvency",
+     "size": 36
+    },
+    {
+     "type": "curve",
+     "pts": [
+      [
+       330,
+       560
+      ],
+      [
+       290,
+       585
+      ],
+      [
+       245,
+       590
+      ]
+     ],
+     "arrow": "end"
+    }
+   ]
+  },
+  {
+   "say": "Steve Jobs came back and did something brutal. He cut dozens of products down to just four.",
+   "draw": [
+    {
+     "type": "rect",
+     "x": 700,
+     "y": 410,
+     "w": 42,
+     "h": 34,
+     "width": 2.6
+    },
+    {
+     "type": "rect",
+     "x": 755,
+     "y": 405,
+     "w": 42,
+     "h": 34,
+     "width": 2.6
+    },
+    {
+     "type": "rect",
+     "x": 810,
+     "y": 412,
+     "w": 42,
+     "h": 34,
+     "width": 2.6
+    },
+    {
+     "type": "rect",
+     "x": 865,
+     "y": 408,
+     "w": 42,
+     "h": 34,
+     "width": 2.6
+    },
+    {
+     "type": "rect",
+     "x": 705,
+     "y": 460,
+     "w": 42,
+     "h": 34,
+     "width": 2.6
+    },
+    {
+     "type": "rect",
+     "x": 760,
+     "y": 465,
+     "w": 42,
+     "h": 34,
+     "width": 2.6
+    },
+    {
+     "type": "rect",
+     "x": 815,
+     "y": 458,
+     "w": 42,
+     "h": 34,
+     "width": 2.6
+    },
+    {
+     "type": "rect",
+     "x": 868,
+     "y": 462,
+     "w": 42,
+     "h": 34,
+     "width": 2.6
+    },
+    {
+     "type": "rect",
+     "x": 702,
+     "y": 515,
+     "w": 42,
+     "h": 34,
+     "width": 2.6
+    },
+    {
+     "type": "rect",
+     "x": 758,
+     "y": 512,
+     "w": 42,
+     "h": 34,
+     "width": 2.6
+    },
+    {
+     "type": "rect",
+     "x": 812,
+     "y": 518,
+     "w": 42,
+     "h": 34,
+     "width": 2.6
+    },
+    {
+     "type": "rect",
+     "x": 866,
+     "y": 514,
+     "w": 42,
+     "h": 34,
+     "width": 2.6
+    },
+    {
+     "type": "rect",
+     "x": 708,
+     "y": 565,
+     "w": 42,
+     "h": 34,
+     "width": 2.6
+    },
+    {
+     "type": "rect",
+     "x": 762,
+     "y": 561,
+     "w": 42,
+     "h": 34,
+     "width": 2.6
+    },
+    {
+     "type": "rect",
+     "x": 818,
+     "y": 567,
+     "w": 42,
+     "h": 34,
+     "width": 2.6
+    },
+    {
+     "type": "rect",
+     "x": 862,
+     "y": 563,
+     "w": 42,
+     "h": 34,
+     "width": 2.6
+    },
+    {
+     "type": "text",
+     "x": 800,
+     "y": 645,
+     "text": "dozens of models",
+     "size": 24
+    },
+    {
+     "type": "xmark",
+     "x": 690,
+     "y": 395,
+     "w": 230,
+     "h": 215
+    },
+    {
+     "type": "arrow",
+     "pts": [
+      [
+       925,
+       520
+      ],
+      [
+       990,
+       520
+      ]
+     ]
+    },
+    {
+     "type": "rect",
+     "x": 1010,
+     "y": 420,
+     "w": 320,
+     "h": 220
+    },
+    {
+     "type": "line",
+     "pts": [
+      [
+       1170,
+       420
+      ],
+      [
+       1170,
+       640
+      ]
+     ]
+    },
+    {
+     "type": "line",
+     "pts": [
+      [
+       1010,
+       530
+      ],
+      [
+       1330,
+       530
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "say": "Consumer and pro. Desktop and portable. That's it.",
+   "draw": [
+    {
+     "type": "text",
+     "x": 1090,
+     "y": 400,
+     "text": "consumer",
+     "size": 24
+    },
+    {
+     "type": "text",
+     "x": 1250,
+     "y": 400,
+     "text": "pro",
+     "size": 24
+    },
+    {
+     "type": "text",
+     "x": 1356,
+     "y": 475,
+     "text": "desktop",
+     "size": 18,
+     "rotate": 90
+    },
+    {
+     "type": "text",
+     "x": 1356,
+     "y": 585,
+     "text": "portable",
+     "size": 18,
+     "rotate": 90
+    },
+    {
+     "type": "text",
+     "x": 1090,
+     "y": 475,
+     "text": "iMac",
+     "size": 28
+    },
+    {
+     "type": "text",
+     "x": 1250,
+     "y": 475,
+     "text": "Power Mac",
+     "size": 26
+    },
+    {
+     "type": "text",
+     "x": 1090,
+     "y": 585,
+     "text": "iBook",
+     "size": 28
+    },
+    {
+     "type": "text",
+     "x": 1250,
+     "y": 585,
+     "text": "PowerBook",
+     "size": 26
+    },
+    {
+     "type": "rect",
+     "x": 1013,
+     "y": 423,
+     "w": 154,
+     "h": 104,
+     "fill": "cyan",
+     "fill_only": true
+    },
+    {
+     "type": "rect",
+     "x": 1013,
+     "y": 533,
+     "w": 154,
+     "h": 104,
+     "fill": "orange",
+     "fill_only": true
+    },
+    {
+     "type": "rect",
+     "x": 1173,
+     "y": 423,
+     "w": 154,
+     "h": 104,
+     "fill": "gray",
+     "fill_only": true
+    },
+    {
+     "type": "rect",
+     "x": 1173,
+     "y": 533,
+     "w": 154,
+     "h": 104,
+     "fill": "gray",
+     "fill_only": true
+    }
+   ]
+  },
+  {
+   "say": "That focus led to the iPod, the iTunes Store, and in 2007, the iPhone.",
+   "tts": "That focus led to the iPod, the iTunes Store, and in two thousand seven, the iPhone.",
+   "draw": [
+    {
+     "type": "arrow",
+     "pts": [
+      [
+       90,
+       790
+      ],
+      [
+       1320,
+       790
+      ]
+     ]
+    },
+    {
+     "type": "circle",
+     "cx": 230,
+     "cy": 790,
+     "r": 9,
+     "fill": "ink"
+    },
+    {
+     "type": "text",
+     "x": 230,
+     "y": 752,
+     "text": "2001",
+     "size": 30
+    },
+    {
+     "type": "text",
+     "x": 230,
+     "y": 832,
+     "text": "iPod",
+     "size": 30
+    },
+    {
+     "type": "circle",
+     "cx": 520,
+     "cy": 790,
+     "r": 9,
+     "fill": "ink"
+    },
+    {
+     "type": "text",
+     "x": 520,
+     "y": 752,
+     "text": "2003",
+     "size": 30
+    },
+    {
+     "type": "text",
+     "x": 520,
+     "y": 832,
+     "text": "iTunes Store",
+     "size": 30
+    },
+    {
+     "type": "circle",
+     "cx": 820,
+     "cy": 790,
+     "r": 9,
+     "fill": "ink"
+    },
+    {
+     "type": "text",
+     "x": 820,
+     "y": 752,
+     "text": "2007",
+     "size": 30
+    },
+    {
+     "type": "text",
+     "x": 820,
+     "y": 832,
+     "text": "iPhone",
+     "size": 34
+    },
+    {
+     "type": "highlight",
+     "x": 752,
+     "y": 810,
+     "w": 136,
+     "h": 44
+    }
+   ]
+  },
+  {
+   "say": "A year later, the App Store turned the iPhone into a platform, and Apple took up to a 30% cut of app sales.",
+   "draw": [
+    {
+     "type": "circle",
+     "cx": 1120,
+     "cy": 790,
+     "r": 9,
+     "fill": "ink"
+    },
+    {
+     "type": "text",
+     "x": 1120,
+     "y": 752,
+     "text": "2008",
+     "size": 30
+    },
+    {
+     "type": "text",
+     "x": 1120,
+     "y": 832,
+     "text": "App Store",
+     "size": 30
+    },
+    {
+     "type": "phone",
+     "x": 110,
+     "y": 945,
+     "w": 125,
+     "h": 230,
+     "fill": "silver",
+     "apps": true
+    },
+    {
+     "type": "coin",
+     "cx": 310,
+     "cy": 1010,
+     "r": 50,
+     "fill": "yellow",
+     "label": "30%",
+     "label_size": 30
+    },
+    {
+     "type": "text",
+     "x": 312,
+     "y": 1098,
+     "text": "Apple's\ncut",
+     "size": 22
+    }
+   ]
+  },
+  {
+   "say": "Here's the part most people miss. Apple controls the entire stack: the chips, the hardware, the software, and the services on top.",
+   "draw": [
+    {
+     "type": "box3d",
+     "x": 455,
+     "y": 1320,
+     "w": 440,
+     "h": 66,
+     "d": 56,
+     "fill": "orange",
+     "label": "chips: A + M series",
+     "label_size": 28
+    },
+    {
+     "type": "box3d",
+     "x": 455,
+     "y": 1224,
+     "w": 440,
+     "h": 66,
+     "d": 56,
+     "fill": "gray",
+     "label": "hardware",
+     "label_size": 30
+    },
+    {
+     "type": "box3d",
+     "x": 455,
+     "y": 1128,
+     "w": 440,
+     "h": 66,
+     "d": 56,
+     "fill": "purple",
+     "label": "software: iOS + macOS",
+     "label_size": 28
+    },
+    {
+     "type": "box3d",
+     "x": 455,
+     "y": 1032,
+     "w": 440,
+     "h": 66,
+     "d": 56,
+     "fill": "green",
+     "label": "services",
+     "label_size": 30
+    }
+   ]
+  },
+  {
+   "say": "Since 2020, it even designs the processors inside its Macs, replacing Intel.",
+   "tts": "Since twenty twenty, it even designs the processors inside its Macs, replacing Intel.",
+   "draw": [
+    {
+     "type": "star",
+     "cx": 470,
+     "cy": 1410,
+     "r": 14,
+     "fill": "yellow"
+    },
+    {
+     "type": "text",
+     "x": 495,
+     "y": 1410,
+     "text": "M1 (2020): goodbye, Intel",
+     "size": 24,
+     "align": "left"
+    }
+   ]
+  },
+  {
+   "say": "And around all of it, they built a wall.",
+   "draw": [
+    {
+     "type": "wall",
+     "x": 370,
+     "y": 940,
+     "w": 36,
+     "h": 530,
+     "fill": "brown",
+     "brick_w": 36
+    },
+    {
+     "type": "wall",
+     "x": 994,
+     "y": 940,
+     "w": 36,
+     "h": 530,
+     "fill": "brown",
+     "brick_w": 36
+    },
+    {
+     "type": "wall",
+     "x": 370,
+     "y": 1434,
+     "w": 660,
+     "h": 36,
+     "fill": "brown"
+    },
+    {
+     "type": "text",
+     "x": 700,
+     "y": 972,
+     "text": "the walled garden",
+     "size": 34
+    }
+   ]
+  },
+  {
+   "say": "iMessage, AirDrop, iCloud, a Watch that only pairs with an iPhone. Every device makes the others more useful, and makes leaving more painful.",
+   "draw": [
+    {
+     "type": "cloud",
+     "cx": 1205,
+     "cy": 985,
+     "w": 210,
+     "fill": "cyan",
+     "fill_alpha": 0.5,
+     "label": "iCloud",
+     "caps": true
+    },
+    {
+     "type": "watch",
+     "cx": 1120,
+     "cy": 1150,
+     "s": 62,
+     "fill": "pink",
+     "strap_fill": "pink"
+    },
+    {
+     "type": "phone",
+     "x": 1220,
+     "y": 1080,
+     "w": 90,
+     "h": 160,
+     "fill": "silver"
+    },
+    {
+     "type": "laptop",
+     "x": 1090,
+     "y": 1290,
+     "w": 220,
+     "h": 130,
+     "fill": "silver"
+    },
+    {
+     "type": "line",
+     "pts": [
+      [
+       1165,
+       1030
+      ],
+      [
+       1125,
+       1075
+      ]
+     ],
+     "dashed": true
+    },
+    {
+     "type": "line",
+     "pts": [
+      [
+       1245,
+       1030
+      ],
+      [
+       1262,
+       1075
+      ]
+     ],
+     "dashed": true
+    },
+    {
+     "type": "line",
+     "pts": [
+      [
+       1265,
+       1248
+      ],
+      [
+       1230,
+       1285
+      ]
+     ],
+     "dashed": true
+    },
+    {
+     "type": "line",
+     "pts": [
+      [
+       1125,
+       1228
+      ],
+      [
+       1150,
+       1285
+      ]
+     ],
+     "dashed": true
+    }
+   ]
+  },
+  {
+   "say": "That wall now surrounds more than two and a half billion active devices.",
+   "draw": [
+    {
+     "type": "text",
+     "x": 1205,
+     "y": 1500,
+     "text": "2.5B+ active\ndevices",
+     "size": 32
+    },
+    {
+     "type": "highlight",
+     "x": 1078,
+     "y": 1458,
+     "w": 256,
+     "h": 86
+    }
+   ]
+  },
+  {
+   "say": "And that's the real business. Apple sells you the device once, then collects rent: the App Store, iCloud, Music, TV, Apple Pay, AppleCare.",
+   "draw": [
+    {
+     "type": "coin",
+     "cx": 460,
+     "cy": 1528,
+     "r": 22,
+     "fill": "yellow"
+    },
+    {
+     "type": "text",
+     "x": 700,
+     "y": 1528,
+     "text": "collecting rent:",
+     "size": 32
+    },
+    {
+     "type": "coin",
+     "cx": 940,
+     "cy": 1528,
+     "r": 22,
+     "fill": "yellow"
+    },
+    {
+     "type": "text",
+     "x": 700,
+     "y": 1578,
+     "text": "App Store \u00b7 iCloud \u00b7 Music \u00b7 TV \u00b7 Pay \u00b7 AppleCare",
+     "size": 25,
+     "color": "ink"
+    }
+   ]
+  },
+  {
+   "say": "Google even pays Apple a reported $20 billion a year, just to be the default search engine in Safari.",
+   "draw": [
+    {
+     "type": "rect",
+     "x": 60,
+     "y": 1245,
+     "w": 280,
+     "h": 60,
+     "r": 30,
+     "label": "Google search",
+     "label_size": 24
+    },
+    {
+     "type": "text",
+     "x": 200,
+     "y": 1350,
+     "text": "default in\nSafari",
+     "size": 24
+    },
+    {
+     "type": "coin",
+     "cx": 200,
+     "cy": 1455,
+     "r": 44,
+     "fill": "green",
+     "label": "$20B",
+     "label_size": 24
+    },
+    {
+     "type": "text",
+     "x": 200,
+     "y": 1525,
+     "text": "per year",
+     "size": 22
+    },
+    {
+     "type": "curve",
+     "pts": [
+      [
+       248,
+       1450
+      ],
+      [
+       300,
+       1430
+      ],
+      [
+       362,
+       1440
+      ]
+     ],
+     "arrow": "end"
+    }
+   ]
+  },
+  {
+   "say": "Services crossed $109 billion in fiscal 2025, more than five times what it made a decade earlier.",
+   "tts": "Services crossed one hundred and nine billion dollars in fiscal twenty twenty five, more than five times what it made a decade earlier.",
+   "draw": [
+    {
+     "type": "bars",
+     "x": 110,
+     "y": 1700,
+     "w": 620,
+     "h": 210,
+     "values": [
+      20,
+      30,
+      46,
+      68,
+      85,
+      109
+     ],
+     "max": 120,
+     "labels": [
+      "FY15",
+      "FY17",
+      "FY19",
+      "FY21",
+      "FY23",
+      "FY25"
+     ],
+     "value_fmt": "${v}B",
+     "fill": "green",
+     "title": "services revenue"
+    }
+   ]
+  },
+  {
+   "say": "And the margins are wild. Products keep about thirty-seven cents of every dollar as gross profit. Services keep about seventy-five.",
+   "draw": [
+    {
+     "type": "bars",
+     "x": 860,
+     "y": 1700,
+     "w": 420,
+     "h": 210,
+     "values": [
+      37,
+      75
+     ],
+     "max": 100,
+     "bar_ratio": 0.5,
+     "labels": [
+      "products",
+      "services"
+     ],
+     "value_fmt": "{v}%",
+     "fill": "gray",
+     "colors": [
+      "gray",
+      "green"
+     ],
+     "title": "gross margin"
+    }
+   ]
+  },
+  {
+   "say": "In fiscal 2025, Apple brought in $416 billion in revenue, and today the company is worth more than four trillion.",
+   "tts": "In fiscal twenty twenty five, Apple brought in four hundred and sixteen billion dollars in revenue, and today the company is worth more than four trillion.",
+   "draw": [
+    {
+     "type": "text",
+     "x": 210,
+     "y": 120,
+     "text": "$416B",
+     "size": 64,
+     "font": "marker"
+    },
+    {
+     "type": "text",
+     "x": 210,
+     "y": 180,
+     "text": "revenue, FY2025",
+     "size": 26
+    },
+    {
+     "type": "line",
+     "pts": [
+      [
+       95,
+       205
+      ],
+      [
+       325,
+       205
+      ]
+     ]
+    },
+    {
+     "type": "box3d",
+     "x": 1110,
+     "y": 95,
+     "w": 100,
+     "h": 170,
+     "d": 46,
+     "fill": "cyan",
+     "label": "$4T+",
+     "label_size": 40,
+     "label_font": "marker",
+     "label_rotate": -90
+    },
+    {
+     "type": "text",
+     "x": 1180,
+     "y": 300,
+     "text": "market cap",
+     "size": 26
+    }
+   ]
+  },
+  {
+   "say": "Apple doesn't really sell phones. It sells the front door to a garden, and collects rent on everything inside.",
+   "cam": [
+    [
+     868,
+     1440,
+     760
+    ],
+    [
+     700,
+     1000,
+     1596
+    ]
+   ],
+   "hold": 1.0,
+   "draw": [
+    {
+     "type": "door",
+     "x": 840,
+     "y": 1398,
+     "w": 56,
+     "h": 72,
+     "fill": "orange",
+     "span": [
+      0,
+      0.3
+     ]
+    },
+    {
+     "type": "text",
+     "x": 868,
+     "y": 1494,
+     "text": "front door",
+     "size": 22,
+     "span": [
+      0.3,
+      0.5
+     ]
+    }
+   ]
+  }
+ ]
+}
